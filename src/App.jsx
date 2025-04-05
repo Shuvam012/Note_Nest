@@ -1,6 +1,6 @@
 
 import { createBrowserRouter, RouterProvider } from 'react-router'
-import './App.css'
+// import './App.css'
 import NavBar from './components/NavBar'
 import Home from './components/Home'
 import Note from './components/Note'
